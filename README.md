@@ -1,6 +1,6 @@
 ### 你好，我是 Jincheng 👋
 
-<sub>Indie developer building AI products end to end · Founder of [bycong](https://bycong.com)</sub>
+<sub>Indie developer building AI products end to end · [bycong](https://bycong.com)</sub>
 
 独立开发者，一个人把 AI 产品从设计、开发做到上线。[剥洋葱 bycong](https://bycong.com) 
 
