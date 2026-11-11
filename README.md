@@ -1,8 +1,8 @@
 ### 你好，我是 Jincheng 👋
 
-<sub>Indie developer building AI products end to end · [bycong](https://bycong.com)</sub>
+<sub>Indie developer building AI products, and exploring how they get discovered. From design and development through launch, with attention to SEO and AI search optimization (GEO) · [bycong](https://bycong.com)</sub>
 
-独立开发者，一个人把 AI 产品从设计、开发做到上线。[剥洋葱 bycong](https://bycong.com) 
+独立开发者，做 AI 产品，也探索如何让产品被发现。从设计、开发到上线，关注 SEO 与 AI 搜索优化（GEO）。[剥洋葱 bycong](https://bycong.com)
 
 > 能用规则算准的，不交给模型猜。结论由程序算定，AI 只负责讲人话。
 
@@ -11,7 +11,7 @@
 | 项目 | 做什么 |
 |---|---|
 | [**liuyao-engine**](https://github.com/yaomancy/liuyao-engine) | 确定性的六爻排盘引擎：纳甲、六亲、六神、世应等规则全部由程序算出，可复现、可交叉验证。[Yaomancy](https://www.yaomancy.com/) 的底层引擎。 |
-| [**rulemason**](https://github.com/rulemason/rulemason) | 给 AI 编码工具的共享规则与检查点：一处维护规则，项目内生成只读副本，方案与代码前后自动判断与审查。 |
+| [**rulemason**](https://github.com/rulemason/rulemason) | 让 AI 写的代码，读起来像人写的。为 AI 编程工具提供统一规则与检查关卡，减少冗余，保持代码清晰、易维护。[官网](https://rulemason.com) |
 
 #### 产品
 
